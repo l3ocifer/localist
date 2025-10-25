@@ -1,0 +1,6 @@
+[submodule "localist-frontend"]
+	path = localist-frontend
+	url = git@github.com:l3ocifer/localist-frontend.git
+[submodule "localist-backend"]
+	path = localist-backend
+	url = git@github.com:l3ocifer/localist-backend.git
